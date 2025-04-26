@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+anthropic
+google-generativeai
+openai
+python-dotenv
+textstat

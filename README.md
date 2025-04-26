@@ -47,7 +47,7 @@
    ```
 3. Run the evaluator:
    ```bash
-   python main.py <article_url1> <article_url2> ...
+   python main.py <article_url1>,<article_url2> ...<model name (openai, claude, gemini, all)
    ```
 4. View results in the console, CSV/JSON files, and open the generated HTML visualizations in `eval_results_html/`.
 
